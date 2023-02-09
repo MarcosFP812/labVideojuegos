@@ -1,2 +1,3 @@
 # labVideojuegos
-Tengo almorranas
+No tengo almorranas
+
